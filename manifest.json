@@ -1,0 +1,9 @@
+{
+  "name": "Arrow Hunt",
+  "short_name": "Arrow Hunt",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6f5843",
+  "description": "Arrow Hunt is a challenging mobile-friendly puzzle game where you slide intertwined arrows off the board. Enjoy 200 levels of brain-teasing fun!"
+}
